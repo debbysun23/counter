@@ -1,0 +1,55 @@
+#main-content{
+    width: 550px;
+    height: 450px;
+    text-align: center;
+    border: 2px solid #fff;
+    margin: 0 auto;
+    background-color: rgb(190, 188, 36);
+    box-shadow: 2px 2px 1px 1px #000;
+}
+
+body{
+    padding-top: 65px;
+    background-color: rgb(190, 188, 36);
+}
+
+h1{
+    font-size: 50px;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.nee{
+    font-size: 110px;
+    text-transform: uppercase;
+    color: green;
+}
+
+.nee{
+    position: relative;
+    margin-top: 30px;
+}
+
+.main{
+    padding: 5px;
+    font-size: 15px;
+    margin-right: 40px;
+    background-color: darkgreen;
+    color: #fff;
+}
+
+.main:hover{
+    background-color: lightgreen;
+}
+
+.sub{
+    padding: 5px;
+    font-size: 15px;
+    margin-left: 80px;
+    background-color: darkgreen;
+    color: #fff;
+}
+
+.sub:hover{
+    background-color: lightgreen;
+}
